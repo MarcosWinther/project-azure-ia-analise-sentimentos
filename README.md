@@ -42,7 +42,7 @@ O projeto seguiu as seguintes etapas:
     *   No Portal Azure, navegamos para `Criar um recurso`.
 
       <p align="center">
-        <img src="./outputs/03_etapa_03.PNG" alt="Tela inicial do Portal Azure para criar um recurso">
+        <img src="./assets/etapas-projeto/03_etapa_03.PNG" alt="Tela inicial do Portal Azure para criar um recurso">
       </p>
 
     *   Selecionamos `Serviço de Linguagem` em `IA + Machine Learning`.
@@ -54,7 +54,7 @@ O projeto seguiu as seguintes etapas:
         *   **Tipo de preço:** Free F0 (5K Transactions per 30 days)
 
       <p align="center">
-        <img src="./outputs/05_etapa_05.PNG" alt="Configuração dos detalhes básicos do Recurso de Linguagem">
+        <img src="./assets/etapas-projeto/05_etapa_05.PNG" alt="Configuração dos detalhes básicos do Recurso de Linguagem">
       </p>
 
     *   Revisamos as funcionalidades padrão. A Análise de Sentimento é um recurso padrão. Funcionalidades adicionais/customizáveis podem ser selecionadas nesta etapa, se necessário.
@@ -62,7 +62,7 @@ O projeto seguiu as seguintes etapas:
     *   Confirmamos os detalhes na tela de revisão.
 
       <p align="center">
-        <img src="./outputs/06_etapa_06.PNG" alt="Tela de revisão antes de criar o Recurso de Linguagem">
+        <img src="./assets/etapas-projeto/06_etapa_06.PNG" alt="Tela de revisão antes de criar o Recurso de Linguagem">
       </p>
 
     *   Clicamos em `Criar` para provisionar o recurso.
