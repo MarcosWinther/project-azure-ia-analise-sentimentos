@@ -1,0 +1,7 @@
+**Resumo da Entrada e Escopo do Projeto**
+
+Entrada Principal: Arquivo de áudio (formato .mp3) contendo um diálogo humorístico do curta do YouTube 'Animação Engraçada Telemarketing - Washington' (https://www.youtube.com/shorts/CQlUCbNj8To).
+
+Pipeline de Processamento: Este áudio serve como ponto de partida para análise dentro do ecossistema de IA do Microsoft Azure. Ele será primeiramente transcrito para texto usando o serviço Azure AI Speech (através do Speech Studio). Posteriormente, o texto gerado será processado pelo serviço Azure AI Language (através do Language Studio) para realizar a análise de sentimentos, identificando o tom emocional (positivo, negativo, neutro) na conversa transcrita.
+
+Objetivo: Demonstrar o processo completo (ponta-a-ponta) de extração de insights de sentimento a partir da linguagem falada, utilizando os serviços cognitivos da Azure AI.
