@@ -105,10 +105,6 @@ O projeto seguiu as seguintes etapas:
     *   Navegamos até a funcionalidade `Analyze sentiment and mine opinions` (Analisar sentimento e minerar opiniões).
     *   Colamos o texto transcrito na área de entrada, selecionamos o idioma (`Português (Brasil)`) e garantimos que o recurso `projeto-fala-azure` estava selecionado. Habilitamos `Enable opinion mining`.
 
-      <p align="center">
-        <img src="./outputs/10_etapa_10.PNG" alt="Tela de entrada de texto para análise de sentimentos no Language Studio">
-      </p>
-
     *   Executamos a análise.
 
 <br>
