@@ -71,7 +71,7 @@ O projeto seguiu as seguintes etapas:
     *   Acessamos o [Azure Speech Studio](https://speech.microsoft.com/portal).
 
       <p align="center">
-        <img src="./outputs/01_etapa_01.PNG" alt="Tela inicial do Speech Studio">
+        <img src="./assets/etapas-projeto/01_etapa_01.PNG" alt="Tela inicial do Speech Studio">
       </p>
 
     *   Selecionamos a funcionalidade `Conversão de fala em texto em tempo real`.
@@ -80,7 +80,7 @@ O projeto seguiu as seguintes etapas:
     *   O Speech Studio processou o áudio e gerou a transcrição em texto.
 
       <p align="center">
-        <img src="./outputs/02_etapa_02.PNG" alt="Resultado da transcrição de fala para texto no Speech Studio">
+        <img src="./assets/etapas-projeto/02_etapa_02.PNG" alt="Resultado da transcrição de fala para texto no Speech Studio">
       </p>
 
     **Texto Transcrito:**
@@ -93,13 +93,13 @@ O projeto seguiu as seguintes etapas:
     *   Acessamos o [Azure Language Studio](https://language.cognitive.azure.com/home).
 
       <p align="center">
-        <img src="./outputs/07_etapa_07.PNG" alt="Tela inicial do Language Studio">
+        <img src="./assets/etapas-projeto/07_etapa_07.PNG" alt="Tela inicial do Language Studio">
       </p>
 
     *   Ao entrar ou selecionar uma funcionalidade, fomos solicitados a selecionar o recurso Azure a ser utilizado. Escolhemos o tipo `Language` e o recurso `projeto-fala-azure` criado anteriormente.
 
       <p align="center">
-        <img src="./outputs/09_etapa_09.PNG" alt="Seleção do Recurso Azure (Linguagem) no Language Studio">
+        <img src="./assets/etapas-projeto/09_etapa_09.PNG" alt="Seleção do Recurso Azure (Linguagem) no Language Studio">
       </p>
 
     *   Navegamos até a funcionalidade `Analyze sentiment and mine opinions` (Analisar sentimento e minerar opiniões).
@@ -161,7 +161,7 @@ A análise de sentimentos processou o texto transcrito e retornou os seguintes r
 ### Resumo Visual e Interpretação
 
 <p align="center">
-  <img src="./outputs/10_etapa_10.PNG" alt="Resultado visual da análise de sentimentos por sentença no Language Studio">
+  <img src="./assets/etapas-projeto/10_etapa_10.PNG" alt="Resultado visual da análise de sentimentos por sentença no Language Studio">
 </p>
 
 *   O sentimento geral do documento foi classificado como **misto** (`mixed`), com uma confiança maior para o sentimento negativo (54%) do que para o positivo (36%), e uma pequena porção neutra (10%).
